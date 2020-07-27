@@ -1,1 +1,2 @@
-git 
+- Manipulando o DOM com JavaScript. 
+- Manipulating the DOM with javascript. 
