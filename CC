@@ -1,0 +1,23 @@
+[33mcommit 90f31055a370823cdfd2818799613ab48d2e4222[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/cart[m[33m)[m
+Author: Gustavo Dias <gustavodias.mecatronica@outlook.com>
+Date:   Mon Jul 27 14:49:27 2020 -0300
+
+    updated main.js
+
+[33mcommit 532ea329f435a2924a44ec4ad838c4756e7fbd87[m
+Author: Gustavo Dias <gustavodias.mecatronica@outlook.com>
+Date:   Mon Jul 27 14:45:27 2020 -0300
+
+    main.js
+
+[33mcommit 88bac1815447b7e120e8b9f43c0d42d285316b25[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Gustavo Dias <gustavodias.mecatronica@outlook.com>
+Date:   Mon Jul 27 14:37:24 2020 -0300
+
+    updated dom.html
+
+[33mcommit f3d89b83078d4c7934baa44b60cfba3252babd27[m
+Author: Gustavo Dias <gustavodias.mecatronica@outlook.com>
+Date:   Mon Jul 27 14:30:44 2020 -0300
+
+    added dom.html
