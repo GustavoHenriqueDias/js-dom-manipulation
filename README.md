@@ -1,2 +1,2 @@
-- Manipulando o DOM com JavaScript. 
-- Manipulating the DOM with javascript. 
+
+  Manipulating the DOM with javascript. 
